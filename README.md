@@ -15,11 +15,11 @@ estudo **Licenciatura em Computação na UEA** e tenho formação técnica em **
 - 💡 Interesse em **desenvolvimento back-end e front-end**  
 - ⚛️ Experiência com **React, Vite, Styled Components, Context API e Reducer**  
 - 🌱 Estudando mais sobre **desenvolvimento back-end**  
-- 🔗 Conhecimento inicial em **Java com Spring** e **.NET C#**  
+- 🔗 Conhecimento inicial em **Fast API Python** e **.NET C#**  
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos realizados
 
 - 📚 **ThinkLib**  
   Projeto de biblioteca de mecânicas para jogos, onde atuei como **desenvolvedor front-end**, utilizando:  
