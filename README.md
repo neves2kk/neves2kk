@@ -38,7 +38,7 @@ estudo **Licenciatura em Computação na UEA** e tenho formação técnica em **
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-![Skills](https://skillicons.dev/icons?i=react,js,ts,java,cs,python,spring,dotnet,postgresql,styledcomponents,tailwind)
+![Skills](https://skillicons.dev/icons?i=react,js,ts,java,cs,python,dotnet,postgresql,styledcomponents,tailwind,python,fastapi)
 
 ---
 
