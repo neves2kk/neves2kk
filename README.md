@@ -44,7 +44,7 @@ Discente do curso de Licenciatura em Computação na **Universidadedo Estadodo A
 ---
 
 ## 🛠 Tecnologias e Ferramentas
-![Skills](https://skillicons.dev/icons?i=react,js,ts,java,cs,python,dotnet,postgresql,styledcomponents,tailwind,python,fastapi)
+![Skills](https://skillicons.dev/icons?i=react,js,ts,java,spring,cs,dotnet,python,fastapi,postgresql,docker,git,tailwind,styledcomponents,vite,firebase)
 
 ---
 
